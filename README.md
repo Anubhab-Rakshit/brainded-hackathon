@@ -40,6 +40,9 @@ A "Second Reader" for radiologists. This deep learning system analyzes Chest X-R
   - **RCTA Decoder:** Relational Cross-Attention for clinically accurate text generation.
   - **Pathology Detection:** Classifies 14 distinct chest diseases with high sensitivity.
   - **Demo Ready:** Includes inference scripts for real-time analysis.
+## Workflow of Cognative Radiology:
+<img width="678" height="777" alt="image" src="https://github.com/user-attachments/assets/d3381334-ae55-47fa-aa39-a00830d25583" />
+
 
 📂 **Code:** Located in `proj2/` directory.
 
