@@ -27,6 +27,7 @@ ReelSense is a state-of-the-art recommendation engine that goes beyond simple co
 
 
 📂 **Code:** Located in `proj1/` directory.
+📂 **Report** Located in `report/` directory.
 
 ---
 
@@ -43,11 +44,14 @@ A "Second Reader" for radiologists. This deep learning system analyzes Chest X-R
 ## Workflow of Cognative Radiology:
 <img width="678" height="777" alt="image" src="https://github.com/user-attachments/assets/d3381334-ae55-47fa-aa39-a00830d25583" />
 
+## Fig: Estimate Representation of Cognitive Radiology:
+<img width="727" height="460" alt="Screenshot 2026-02-08 203801" src="https://github.com/user-attachments/assets/f31e90db-3212-45c8-b44a-c2c3dcb633c7" />
+
+
 
 📂 **Code:** Located in `proj2/` directory.
-
+📂 **Report** Located in `report/` directory.
 ---
-
 ## Getting Started
 
 ### Prerequisites
