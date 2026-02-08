@@ -58,4 +58,4 @@ python -m proj2.src.inference --image test_image.jpg --checkpoint proj2/model_fi
 ```
 
 ---
-*Developed by Anubhab Rakshit*
+*Developed by 2 Bit Engineers*
