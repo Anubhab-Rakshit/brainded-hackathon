@@ -12,10 +12,37 @@ ReelSense is a state-of-the-art recommendation engine that goes beyond simple co
   - **Explainable AI:** Provides tag-based explanations for every recommendation.
   - **Diversity Optimization:** Ensuring users aren't trapped in filter bubbles.
   - **Real-Time Pipeline:** Efficient data loaders and inference scripts.
+
+    
+ ## Explainability Demo :
+Building user profiles for explanations...
+User ID: 1
+Profile: {'top_genres': ['Action', 'Adventure', 'Comedy'], 'recent_liked_movies': ['Back to the Future Part III (1990)', '¡Three Amigos! (1986)', 'Tombstone (1993)']}
+
+Recommended: Star Wars: Episode V - The Empire Strikes Back (1980)
+
+Explanation: Because you enjoy Action, Adventure movies.
+
+Recommended: Star Wars: Episode IV - A New Hope (1977)
+
+Explanation: Because you enjoy Action, Adventure movies.
+
+Recommended: Star Wars: Episode VI - Return of the Jedi (1983)
+
+Explanation: Because you enjoy Action, Adventure movies.
+
+<h2 align="center">LightGCN Architecture: Propagating user-item embeddings through the graph for higher-order connectivity</h2> 
+
+![lightsc](https://github.com/user-attachments/assets/82c184ca-7f96-4716-885d-fa64a316c769)
+
   ## Fig1: Genre Popularity of Different Movies
-    ![GENRE POPULATION](https://github.com/user-attachments/assets/16163859-9823-4945-93ea-25834a955d16)
+  ![GENRE POPULATION](https://github.com/user-attachments/assets/c7ba6abf-3c11-4ed8-bde6-99247afb43fb)
   ## Fig 2: WorkFlow Architecture of Reel Sense
   ![workflow reelsense](https://github.com/user-attachments/assets/84af5dc0-e6c1-48ea-9798-66785fba3c11)
+  <h2 align="center">Ensemble Inference: Weighted fusion of SVD, NeuralCF, and Transformer scores for robust recommendation</h2> 
+
+  ![svd](https://github.com/user-attachments/assets/7e7baf16-f6e8-4d34-8fd0-7af38b675676)
+
   ## Fig 3: Long Tail Distribution vs No.of Rating Graph Based on Movie Rank
   ![Fig 3 Long Tail Distribution vs No of Rating Graph Based on Movie Rank](https://github.com/user-attachments/assets/aec361c5-fd90-4244-9481-a63d83decc82)
   ## Fig 4: Distribution of Movies Rating Per Count
@@ -42,17 +69,35 @@ A "Second Reader" for radiologists. This deep learning system analyzes Chest X-R
   - **RCTA Decoder:** Relational Cross-Attention for clinically accurate text generation.
   - **Pathology Detection:** Classifies 14 distinct chest diseases with high sensitivity.
   - **Demo Ready:** Includes inference scripts for real-time analysis.
+
+
+  
 ## Workflow of Cognative Radiology:
 <img width="678" height="777" alt="image" src="https://github.com/user-attachments/assets/d3381334-ae55-47fa-aa39-a00830d25583" />
 
 ## Fig: Estimate Representation of Cognitive Radiology:
 <img width="727" height="460" alt="Screenshot 2026-02-08 203801" src="https://github.com/user-attachments/assets/f31e90db-3212-45c8-b44a-c2c3dcb633c7" />
 
+<h2 align="center">Relational Cross-Attention (RCTA): Updating disease memory and text context simultaneously during report generation</h2> 
+
+![rca](https://github.com/user-attachments/assets/47fc887e-bf75-4732-be6c-39b611a74e6a)
+
+<h2 align="center">Multimodal Fusion: Integrating Electronic Health Record (EHR) priors into the visual posterior probability.</h2> 
+
+![eha](https://github.com/user-attachments/assets/f280a30b-f2d4-42fc-8510-ca5318334c4c)
+
+
+
+
+
+
+
 
 
 📂 **Code:** Located in `proj2/` directory.
 
-📂 **Report:** Located in `report/` directory.
+📂 **Report:** Located in `report/`
+ directory.
 
 ---
 ## Getting Started
