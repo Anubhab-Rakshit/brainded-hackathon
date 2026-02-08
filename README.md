@@ -86,6 +86,26 @@ A "Second Reader" for radiologists. This deep learning system analyzes Chest X-R
 
 ![eha](https://github.com/user-attachments/assets/f280a30b-f2d4-42fc-8510-ca5318334c4c)
 
+## Expected Output:
+```yaml
+python -m proj2.src.inference --image pneumonia_image.jpg --checkpoint proj2/model_final.pth
+Running inference on mps
+Loading model from proj2/model_final.pth...
+Generating report for: pneumonia_image.jpg...
+
+========================================
+   RADIOLOGY REPORT (Generated)   
+========================================
+FINDINGS: Evidence of pneumonia is seen. Evidence of infiltration is seen. Evidence of consolidation is seen. Correlate with clinical history.
+IMPRESSION: Pneumonia, Infiltration, Consolidation.
+========================================
+
+Detected Pathology Probabilities:
+[[0.   0.   0.   0.85 0.   0.   0.92 0.   0.78 0.   0.   0.   0.   0.  ]]
+```
+
+
+
 
 
 
