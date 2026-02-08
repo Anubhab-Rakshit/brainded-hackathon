@@ -12,6 +12,19 @@ ReelSense is a state-of-the-art recommendation engine that goes beyond simple co
   - **Explainable AI:** Provides tag-based explanations for every recommendation.
   - **Diversity Optimization:** Ensuring users aren't trapped in filter bubbles.
   - **Real-Time Pipeline:** Efficient data loaders and inference scripts.
+  ## Fig1: Genre Popularity of Different Movies
+    ![GENRE POPULATION](https://github.com/user-attachments/assets/16163859-9823-4945-93ea-25834a955d16)
+  ## Fig 2: WorkFlow Architecture of Reel Sense
+  ![workflow reelsense](https://github.com/user-attachments/assets/84af5dc0-e6c1-48ea-9798-66785fba3c11)
+  ## Fig 3: Long Tail Distribution vs No.of Rating Graph Based on Movie Rank
+  ![Fig 3 Long Tail Distribution vs No of Rating Graph Based on Movie Rank](https://github.com/user-attachments/assets/aec361c5-fd90-4244-9481-a63d83decc82)
+  ## Fig 4: Distribution of Movies Rating Per Count
+  ![Fig 4: Distribution of Movies Rating Per Count](https://github.com/user-attachments/assets/1fb53d6b-51c9-4a72-b501-78ed2642eaf5)
+
+
+
+  
+
 
 📂 **Code:** Located in `proj1/` directory.
 
