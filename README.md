@@ -28,7 +28,7 @@ ReelSense is a state-of-the-art recommendation engine that goes beyond simple co
 
 📂 **Code:** Located in `proj1/` directory.
 
-📂 **Report** Located in `report/` directory.
+📂 **Report:** Located in `report/` directory.
 
 ---
 
@@ -52,7 +52,7 @@ A "Second Reader" for radiologists. This deep learning system analyzes Chest X-R
 
 📂 **Code:** Located in `proj2/` directory.
 
-📂 **Report** Located in `report/` directory.
+📂 **Report:** Located in `report/` directory.
 
 ---
 ## Getting Started
