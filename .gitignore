@@ -1,0 +1,23 @@
+# System
+.DS_Store
+__pycache__/
+*.pyc
+
+# Large Files
+*.pth
+*.zip
+*.tar.gz
+*.csv
+
+# Environments & Caches
+venv/
+env/
+.env
+tmp_hf_cache/
+output/
+outputs/
+ml-latest-small/
+
+# Test Images
+*.jpg
+*.png
