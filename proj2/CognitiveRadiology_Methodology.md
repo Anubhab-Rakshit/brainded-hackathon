@@ -37,7 +37,7 @@ The model is composed of three specialized modules working in unison:
 ---
 
 ### 3. "God Mode" Training Configuration
-To win the hackathon, the training pipeline was optimized for the cutting-edge **NVIDIA RTX 5090 (Blackwell Architecture)**.
+The training pipeline was optimized for the cutting-edge **NVIDIA RTX 5090 (Blackwell Architecture)**.
 
 #### Hardware Accelerations
 *   **TensorFloat-32 (TF32):** Enabled on matrix multiplications for free speedup without precision loss.
